@@ -7,7 +7,23 @@
 
 - 📫 How to reach me **alisayeed248@gmail.com**
 
-- ⚡ Fun fact **I have a goal to travel all across America and see all 50 states!**
+- ⚡ Fun fact **I have a goal to travel all across America and visit as many national parks as possible! Currently this is my national park ranking:**
+
+### 🏞️ My National Park Rankings:
+1. Zion  
+2. Death Valley  
+3. Rocky Mountain  
+4. Canyonlands  
+5. Sequoia  
+6. Arches  
+7. Yosemite  
+8. Acadia  
+9. Grand Canyon  
+10. Grand Tetons  
+11. Bryce Canyon  
+12. Carlsbad Caverns  
+13. White Sands  
+14. Joshua Tree
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
