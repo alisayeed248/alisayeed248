@@ -1,36 +1,6 @@
-<h1 align="center">Hey 👋, I'm Sayeed Ali</h1>
-<h3 align="center">A software engineer based in New York.</h3>
+# Hey, I'm Sayeed 👋
 
-- 🔭 I’m currently working on [a C# Music Player and repository.](https://github.com/alisayeed248/MusicPlayerSystem)
+I'm a software engineer based in New York. I like building things, reading interesting stuff, and traveling across America—especially visiting national parks and new cities.
 
-- 🌱 I really love working with **AWS, Java**
-
-- 📫 How to reach me **alisayeed248@gmail.com**
-
-- ⚡ Fun fact **I have a goal to travel all across America and visit as many national parks as possible! Currently this is my national park ranking:**
-
-### 🏞️ My National Park Rankings:
-1. Zion  
-2. Death Valley  
-3. Rocky Mountain  
-4. Canyonlands  
-5. Sequoia  
-6. Arches  
-7. Yosemite  
-8. Acadia  
-9. Grand Canyon  
-10. Grand Tetons  
-11. Bryce Canyon  
-12. Carlsbad Caverns  
-13. White Sands  
-14. Joshua Tree
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sayeedali248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayeedali248/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisayeed248&show_icons=true&locale=en" alt="alisayeed248" /></p>
+Check out my website at [sayeedali.com](https://sayeedali.com).  
+If you're curious about how it's built, you can find the code and more in my projects.
