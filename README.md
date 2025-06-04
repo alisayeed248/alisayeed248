@@ -1,4 +1,4 @@
-# Hey, I'm Sayeed 👋
+# Hey, I'm Sayeed 
 
 I'm a software engineer based in New York. I like building things, reading interesting stuff, and traveling across America—especially visiting national parks and new cities.
 
